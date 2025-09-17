@@ -26,10 +26,13 @@ The goal of this case study is to build **networking foundations** — understan
 ### 1. Run the server
 ```bash
 go run server.go
+```
+
 
 ### 2. Run the client
 ```bash
 go run client.go
+```
 
 ### 3. Chat
 
